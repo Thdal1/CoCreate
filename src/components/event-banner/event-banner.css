@@ -1,0 +1,13 @@
+.banner-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    border: red 1px solid;
+    padding: 20px;
+    box-sizing: border-box;
+
+    .banner-image {
+        width: 30%;
+        
+    }
+}
