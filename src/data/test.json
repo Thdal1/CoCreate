@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Northstar Studio",
+    "address": {
+      "street": "42 Aurora Avenue",
+      "city": "Oslo",
+      "postalCode": "0154",
+      "country": "Norway"
+    },
+    "description": "Northstar Studio helps teams design and build digital products with a focus on clarity, speed, and long-term value.",
+    "category": "Design"
+  },
+  {
+    "id": 2,
+    "title": "Greenfield Collective",
+    "address": {
+      "street": "88 Meadow Road",
+      "city": "Bergen",
+      "postalCode": "5003",
+      "country": "Norway"
+    },
+    "description": "Greenfield Collective brings together creatives and engineers to explore sustainable solutions through collaboration.",
+    "category": "Sustainability"
+  },
+  {
+    "id": 3,
+    "title": "Ironclad Systems",
+    "address": {
+      "street": "17 Foundry Lane",
+      "city": "Trondheim",
+      "postalCode": "7011",
+      "country": "Norway"
+    },
+    "description": "Ironclad Systems builds reliable, scalable software platforms for growing organizations and startups.",
+    "category": "Technology"
+  },
+  {
+    "id": 4,
+    "title": "Blue Horizon Labs",
+    "address": {
+      "street": "5 Seaside Plaza",
+      "city": "Stavanger",
+      "postalCode": "4006",
+      "country": "Norway"
+    },
+    "description": "Blue Horizon Labs focuses on innovation at the intersection of data, creativity, and user experience.",
+    "category": "Innovation"
+  },
+  {
+    "id": 5,
+    "title": "Atlas Workshop",
+    "address": {
+      "street": "101 Summit Street",
+      "city": "Tromsø",
+      "postalCode": "9008",
+      "country": "Norway"
+    },
+    "description": "Atlas Workshop supports teams as they turn ambitious ideas into well-crafted digital products.",
+    "category": "Product"
+  }
+]

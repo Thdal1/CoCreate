@@ -1,11 +1,12 @@
-import reactLogo from '../../assets/react.svg'
+import image from '../../assets/save-the-oslo-fjord.png'
 import './event-banner.css'
 
-export default function Banner() {
+export default function Banner( items ?: any ) {
   return (
     <div className="banner-wrapper">
+      <p>hei {items?.data?.length}</p>
         <div className="banner-image">
-            <img src={reactLogo} alt="Image" />
+            <img src={image} alt="Image" />
         </div>
         <div className="banner-text">
             <h2 className="banner-title">Design Thinking: Save the Oslo Fjord</h2>
