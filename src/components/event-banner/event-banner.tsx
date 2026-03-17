@@ -1,10 +1,9 @@
-import image from '../../assets/save-the-oslo-fjord.png'
+import image from '../../assets/1.png'
 import './event-banner.css'
 
 export default function Banner( items ?: any ) {
   return (
     <div className="banner-wrapper">
-      <p>hei {items?.data?.length}</p>
         <div className="banner-image">
             <img src={image} alt="Image" />
         </div>

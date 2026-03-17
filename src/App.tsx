@@ -8,7 +8,7 @@ import Data from './data/test.json'
 
 
 function App() {
-  // const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0)
 
   return (
     <>
@@ -32,8 +32,9 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <Banner data={Data} />
-    </>
+      {Data.map((item, index) => (
+        <Banner key={index} data={item} />
+      ))}    </>
 
   )
 
