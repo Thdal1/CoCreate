@@ -1,0 +1,37 @@
+{
+  "updatedAt": "2026-03-17T00:00:00Z",
+  "featuredEvent": {
+    "title": "Featured event (external)",
+    "dateLabel": "Date · time",
+    "location": "Location",
+    "organizer": "Organizer (optional)",
+    "url": "https://example.com",
+    "note": "Use this slot for an upcoming event you want to highlight (not necessarily a Co-Create event)."
+  },
+  "events": [
+    {
+      "id": "hackathon-weekend-2026",
+      "title": "Hackathon Weekend 2026",
+      "date": "2026-03-20",
+      "dateLabel": "20 Mar – 22 Mar 2026",
+      "time": "17:00 – 16:00",
+      "location": "Oslo",
+      "summary": "An opportunity to test your knowledge by solving solutions for real-life stakeholders.",
+      "description": "Join a weekend hackathon where cross-disciplinary teams work on challenges from real stakeholders. Bring curiosity and a willingness to collaborate—mentors and facilitation will be available throughout the weekend.",
+      "registrationUrl": "https://www.uio.no/english/research/interfaculty-research-areas/growth-house/student-innovation/co-create/"
+    },
+    {
+      "id": "lecture-series-opportunity-evaluation",
+      "title": "Lecture series: Opportunity Evaluation",
+      "date": "2026-03-25",
+      "dateLabel": "25 Mar 2026",
+      "time": "14:00 – 16:00",
+      "location": "UiO, Kristen Nygårds Hus (Gaustadalléen 23A, 0373 Oslo)",
+      "room": "Seminarrom Python",
+      "summary": "Learn frameworks for evaluating opportunities and shaping your next steps.",
+      "description": "A lecture for students exploring entrepreneurship. We’ll cover practical lenses for opportunity evaluation and how to iterate from early signals to clearer direction.",
+      "registrationUrl": "https://www.uio.no/english/research/interfaculty-research-areas/growth-house/student-innovation/co-create/"
+    }
+  ]
+}
+
